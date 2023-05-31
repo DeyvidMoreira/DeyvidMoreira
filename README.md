@@ -24,5 +24,4 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/DeyvidMoreira/DeyvidMoreira/blob/output/github-contribution-grid-snake.svg)
 
