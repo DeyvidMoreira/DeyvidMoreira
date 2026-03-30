@@ -1,4 +1,4 @@
-# 🚀 Deyvid Moreira
+#  Deyvid Moreira
 
 <div align="center">
 
@@ -13,7 +13,7 @@ Building scalable systems that can become real products.
 
 ---
 
-## 🧠 Who I Am
+##  Who I Am
 
 I'm a Software Engineer focused on **building SaaS products and backend systems** designed for real-world usage.
 
@@ -29,9 +29,9 @@ My goal is simple:
 
 ---
 
-## 🚀 What I'm Building
+##  What I'm Building
 
-### 🛡️ SafeDeploy (SaaS)
+###  SafeDeploy (SaaS)
 
 > Security-first platform for developers before deployment.
 
@@ -55,7 +55,7 @@ Become a **developer-first security platform**, integrated into the development 
 
 ---
 
-### 🧠 MedForge
+###  MedForge
 
 > Knowledge platform designed for structured learning.
 
