@@ -1,56 +1,136 @@
-# 👋 Olá, eu sou o Deyvid Moreira
+# 🚀 Deyvid Moreira
 
-🚀 Desenvolvedor Android focado em arquitetura moderna, performance e experiência do usuário.  
-💡 Atualmente construindo soluções próprias (SaaS) e explorando integrações reais com autenticação, monetização e APIs.
+<div align="center">
+
+### Software Engineer • SaaS Builder • Product-Oriented Developer
+
+🐍 Python • ⚙️ Backend Systems • 🔐 Security • 💳 Billing  
+📍 Brazil  
+
+Building scalable systems that can become real products.
+
+</div>
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 Who I Am
 
-Sou desenvolvedor com foco em aplicações **mobile nativas (Android)** utilizando **Kotlin** e boas práticas como **MVVM, Clean Architecture e modularização**.
+I'm a Software Engineer focused on **building SaaS products and backend systems** designed for real-world usage.
 
-Tenho experiência prática no desenvolvimento de apps completos, incluindo:
+I don't just develop features — I design systems with:
 
-- 🔐 Autenticação com Firebase
-- 💾 Persistência local com Room Database
-- 🎯 Gerenciamento de estado com ViewModel / LiveData
-- 🎨 UI moderna com Jetpack Compose
-- 🔄 Integração com APIs externas
-- 📊 Estruturação de dados e lógica de negócio
+- 📈 scalability in mind  
+- 🔐 security as a foundation  
+- 💳 monetization as part of the architecture  
 
-Além disso, venho evoluindo projetos com visão de produto, incluindo:
+My goal is simple:
 
-- SaaS com foco em segurança
-- Sistemas com Auth + Billing
-- Experiência de usuário orientada a retenção
+> Turn ideas into products that can scale and generate value.
+
+---
+
+## 🚀 What I'm Building
+
+### 🛡️ SafeDeploy (SaaS)
+
+> Security-first platform for developers before deployment.
+
+**Problem**
+Developers often ship applications without clear visibility of vulnerabilities and risks.
+
+**Solution**
+SafeDeploy provides:
+
+- 🔍 vulnerability analysis before deploy  
+- 📊 structured security reports  
+- ⚠️ risk insights for developers  
+
+**Vision**
+Become a **developer-first security platform**, integrated into the development workflow.
+
+**Next Steps**
+- Auth system (JWT + sessions)
+- Billing integration (Stripe)
+- Public API for integrations
+
+---
+
+### 🧠 MedForge
+
+> Knowledge platform designed for structured learning.
+
+**Focus**
+- Articles, cases, and organized knowledge
+- Scalable content architecture
+- Designed for high-volume data
+
+**Goal**
+Transform into a **centralized learning ecosystem**
+
+---
+
+### ♟️ Chessnator
+
+> System focused on logic, rules, and state control.
+
+**Highlights**
+- Complex rule engine
+- State management
+- Algorithm-driven behavior
+
+---
+
+## ⚙️ How I Build Systems
+
+I focus on creating systems that are:
+
+### 🧱 Structured
+- Clean Architecture
+- Separation of concerns
+- Modular design
+
+### 🔐 Secure
+- Authentication flows (JWT, Firebase)
+- Input validation strategies
+- Defensive programming
+
+### ⚙️ Scalable
+- API-first mindset
+- Stateless backend design
+- Ready for SaaS evolution
+
+### 💳 Monetizable
+- Designed with billing in mind
+- Subscription-ready architecture
+- Integration-ready (Stripe)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📱 Mobile
+### Core
+- Python
+- REST APIs
+- System Design
+
+### Backend
+- Authentication systems
+- JWT / token-based security
+- Firebase integration
+
+### Data
+- SQL databases
+- Data modeling
+- Persistence strategies
+
+### Secondary (Mobile)
 - Kotlin
 - Jetpack Compose
-- Android SDK
-- MVVM Architecture
-
-### ⚙️ Backend & Integrações
-- Firebase Authentication
-- REST APIs
-- JSON / HTTP Clients
-
-### 💾 Banco de Dados
-- Room Database (SQLite)
-
-### 🧪 Boas práticas
-- Clean Architecture
-- Separation of Concerns
-- Reutilização de componentes
-- Validação desacoplada da ViewModel
+- MVVM
 
 ---
 
-## 📊 Estatísticas
+## 📊 GitHub Insights
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeyvidMoreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -59,67 +139,35 @@ Além disso, venho evoluindo projetos com visão de produto, incluindo:
 
 ---
 
-## 🚧 Projetos em destaque
+## 🧭 Roadmap
 
-### 🔐 Nexus (App Android)
-Aplicação com sistema completo de autenticação e gerenciamento de usuário.
-
-**Features:**
-- Cadastro e login com Firebase
-- Validação de campos desacoplada
-- Persistência de sessão (lembrar usuário)
-- Navegação moderna com Jetpack Compose
-- Feedback visual de erros e sucesso
+- [ ] Launch SafeDeploy MVP
+- [ ] Implement Auth + Billing system
+- [ ] Deploy first public SaaS
+- [ ] Open API for external developers
+- [ ] Reach first paying users
 
 ---
 
-### 📦 Sistema de Ordens de Serviço
-App com arquitetura MVVM e persistência local.
+## 📫 Contact
 
-**Features:**
-- CRUD completo com Room Database
-- Sistema de pontuação (score)
-- Atualização reativa com LiveData
-- Compartilhamento de ViewModel entre telas
+<div align="center">
 
----
+<a href="mailto:rospamoreira16@gmail.com">
+  <img width="40" src="https://img.icons8.com/color/48/000000/gmail.png">
+</a>
+<a href="https://www.linkedin.com/in/deyvid-moreira-6209291b7/">
+  <img width="40" src="https://img.icons8.com/color/48/000000/linkedin.png">
+</a>
 
-### 🛡️ SafeDeploy (em desenvolvimento)
-Plataforma com foco em segurança de aplicações e análise de vulnerabilidades.
-
-**Objetivo:**
-- Auxiliar devs a identificar riscos antes do deploy
-- Centralizar relatórios de segurança
-- Evoluir para modelo SaaS
-
----
-
-## 📈 Atualmente estudando
-
-- Arquitetura escalável para SaaS
-- Integração com Stripe (billing)
-- Segurança de aplicações
-- Performance em apps Android
-
----
-
-## 📫 Contato
-
-<div>
-  <a href="mailto:rospamoreira16@gmail.com">
-    <img width="30" src="https://img.icons8.com/color/48/000000/gmail.png">
-  </a>
-  <a href="https://www.linkedin.com/in/deyvid-moreira-6209291b7/">
-    <img width="30" src="https://img.icons8.com/color/48/000000/linkedin.png">
-  </a>
 </div>
 
 ---
 
-## ⚡ Filosofia
+## ⚡ Philosophy
 
-> Construir software não é só fazer funcionar.  
-> É criar algo escalável, seguro e que gere valor real.
+```text
+Code is just the tool.
 
----
-
+The real goal is to build systems that solve problems,
+scale efficiently, and become products.
